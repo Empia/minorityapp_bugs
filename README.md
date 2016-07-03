@@ -1,4 +1,4 @@
 # minorityapp_bugs
 Bug tracking for the future for the humanity
     
-![Awesome cat gif](http://gifly.com//media_gifly/7/Q/j/2/b/7Qj2.gif)
+![Deer](http://d13yacurqjgara.cloudfront.net/users/256781/screenshots/2292196/lope3.gif)
