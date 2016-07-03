@@ -1,4 +1,4 @@
 # minorityapp_bugs
 Bug tracking for the future for the humanity
     
-![Deer](http://d13yacurqjgara.cloudfront.net/users/256781/screenshots/2292196/lope3.gif)
+![lope3](https://cloud.githubusercontent.com/assets/485466/16546410/3bdb83d0-416b-11e6-96c0-75a6dd20c06d.gif)
